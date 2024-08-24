@@ -7,7 +7,7 @@ Neste projeto foi implementada a solução proposta para o desafio. O projeto fo
 Este projeto visa consolidar conhecimentos em **Lógica de Programação**, **Sintaxe da Linguagem Java**, **Classe Scanner**, **Controle de Fluxos** entre outros.
 
 ## Resultado
-<img scr="./img/1_console.png"/>
+<img src="./img/1_console.png"/>
 
 ## Controle de Fluxo - Desafio
 
